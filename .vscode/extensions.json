@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "ritwickdey.liveserver",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-complete-tag",
+    "dsznajder.es7-react-js-snippets"
+  ]
+}
